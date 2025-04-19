@@ -24,3 +24,20 @@ This project focuses on analyzing Indian Premier League (IPL) cricket data to un
 
 ## 📂 Project Structure
 
+## 📷 Sample Dashboard
+
+![Dashboard Screenshot](IPL_Analysis_Dashboard.pbix)
+
+## 🧠 Learnings
+
+- Strengthened skills in data wrangling and visualization
+- Learned to create meaningful KPIs and visuals
+- Gained experience in sports data analytics
+
+## 📬 Contact
+
+For any queries or feedback:
+
+- [Your Name](https://github.com/Waseem7839)
+- [LinkedIn](https://www.linkedin.com/in/mohammad-waseem-akram-772216281/)
+
